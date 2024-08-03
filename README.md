@@ -2,6 +2,8 @@
 https://docs.google.com/spreadsheets/d/1rryG3NiziWlJJs1Boz7q2f4gAZ630FX4Ls8dLoo3KLU/edit?usp=sharing
 
 
+<img src="https://github.com/Tanuj2005/BreakingBug-ML/blob/main/Output_SS.jpg" alt="Output_SS">
+
 # Breaking Bug - Machine Learning Repository
 
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyE_BreakingBugBanner.png?auto=format,compress" alt="Breaking Bug Poster">
