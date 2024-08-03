@@ -140,6 +140,7 @@ print("___________________________________________________________")
 print ("Mode of the dataset: ",df('data')['age'].(pd.Series.mode))
 print("___________________________________________________________")
 
+
 # value count of cp column
 df['cp'].value_counts()
 
