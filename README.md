@@ -1,3 +1,7 @@
+# Google Sheet Link
+https://docs.google.com/spreadsheets/d/1rryG3NiziWlJJs1Boz7q2f4gAZ630FX4Ls8dLoo3KLU/edit?usp=sharing
+
+
 # Breaking Bug - Machine Learning Repository
 
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyE_BreakingBugBanner.png?auto=format,compress" alt="Breaking Bug Poster">
